@@ -1,8 +1,8 @@
 ---
-title: "updating"
+title: "Contact Us"
 bg: purple
 color: white
-fa-icon: cloud-upload
+fa-icon: at
 ---
 
 ## Updating
