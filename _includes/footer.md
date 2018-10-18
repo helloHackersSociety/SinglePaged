@@ -1,8 +1,5 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Made by Iqrah <a href="https://github.com/iiqrah" target="_blank">iiqrah</a>
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+Adapted from <a href="https://github.com/t413/SinglePaged" target="_blank">SinglePaged theme</a> 
