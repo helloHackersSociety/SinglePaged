@@ -6,6 +6,6 @@ The website is being managed by the society chair Iqrah, and additionally by the
 
 It is still under construction, and will go live soon for it's first iteration. 
 
-Live Website Like : https://manmethacks.co.uk
+Live Website Like : https://manmethacks.com
 
 
