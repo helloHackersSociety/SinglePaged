@@ -345,7 +345,15 @@ nav ul li:hover, nav ul li.active {
 }
 
 
+.soc {
+  padding: 0.5em;
+}
 
+.soc:hover {
+
+  color: white;
+
+}
 
 
 /* mid size (tablets, landscapes) */
@@ -376,6 +384,10 @@ nav ul li:hover, nav ul li.active {
     font-weight: 500;
     border: solid 2px black;
     color: black;
+  }
+
+  .soc {
+    padding: 0.1em;
   }
 
 
