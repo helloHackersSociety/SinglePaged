@@ -370,6 +370,14 @@ nav ul li:hover, nav ul li.active {
 	.container h3 { font-size: 20px; }
 	.container h4 { font-size: 18px; }
 
+  .title {
+
+    font-size: 80px;
+    font-weight: 500;
+    border: solid 2px black;
+    color: black;
+  }
+
 
   .section { padding:130px 0; }
   .sectiondivider {
