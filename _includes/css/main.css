@@ -350,9 +350,23 @@ nav ul li:hover, nav ul li.active {
 }
 
 .soc:hover {
-
   color: white;
+}
 
+.container {
+  text-align: center;
+}
+
+.faq-blocks h4 {
+  height: 40px;
+  overflow: hidden;
+}
+
+.faq-blocks {
+  vertical-align: top;
+  display: inline-block;
+  padding: 1.5%;
+  width: 30%;
 }
 
 
@@ -377,6 +391,17 @@ nav ul li:hover, nav ul li.active {
 	.container h2 { font-size: 24px; }
 	.container h3 { font-size: 20px; }
 	.container h4 { font-size: 18px; }
+
+  .faq-blocks h4 {
+    height: auto;
+    overflow: auto;
+  }
+
+  .faq-blocks {
+    display: block;
+    width: inherit;
+    margin-bottom: 20px;
+  }
 
   .title {
 
