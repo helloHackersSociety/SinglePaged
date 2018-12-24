@@ -374,6 +374,22 @@ nav ul li:hover, nav ul li.active {
   background: white;
 }
 
+.schedule-block {
+  vertical-align: top;
+  display: inline-block;
+  width: 45%;
+}
+
+.schedule-block ul{
+  padding-left: 80px;
+  list-style-type: none;
+  text-align: left;
+}
+
+.schedule-block li{
+  font-size: 18px;
+}
+
 
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
@@ -403,6 +419,12 @@ nav ul li:hover, nav ul li.active {
   }
 
   .faq-blocks {
+    display: block;
+    width: inherit;
+    margin-bottom: 20px;
+  }
+
+  .schedule-block {
     display: block;
     width: inherit;
     margin-bottom: 20px;
