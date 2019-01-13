@@ -374,6 +374,11 @@ nav ul li:hover, nav ul li.active {
   background: white;
 }
 
+.sponsor-logo
+{
+  padding-top: 20px;
+}
+
 .schedule-block {
   vertical-align: top;
   display: inline-block;
