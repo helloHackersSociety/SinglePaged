@@ -426,7 +426,7 @@ nav ul li:hover, nav ul li.active {
   .faq-blocks {
     display: block;
     width: inherit;
-    margin-bottom: 20px;
+    margin: 0px auto 20px auto;
   }
 
   .schedule-block {
